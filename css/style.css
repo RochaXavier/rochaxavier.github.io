@@ -1,0 +1,58 @@
+h1,h2,h3,h4,h5,h6, .section-title, .slick-text{
+	font-family: 'Cardo', serif;
+}
+p, ul, li, a{
+	font-family: 'Josefin Sans', sans-serif;
+}
+.container{
+	padding-top: 70px;
+}
+.image-profile{
+	border-radius: 50%;
+	max-height: 200px;
+	max-width: 200px;
+}
+.name{
+	font-weight: bold;
+	font-size: 19px;
+}
+.section-title{
+	font-weight: bold;
+	font-size: 18px;
+	margin-bottom: 15px;
+}
+#habilits, #hobbies , .personal-information, .carrer{
+	border-bottom: 1px solid rgba(115, 115, 115, 0.5);
+}
+.carrer{
+	padding-left: 15px; 
+}
+.slick{
+	padding: 15px 0;
+}
+.slick-item{
+	padding: 5px 25px;
+	opacity: 0.3;
+}
+.slick-item img{
+	width: 125px;
+	height: 125px;
+	margin: 0 auto;
+}
+.slick-center{
+	opacity: 1;
+}
+.img-circle{
+	border-radius: 50%;
+}
+.d-none{
+	display: none !important;
+}
+.slick-text {
+	color: violet;
+	font-size: 23px;
+	text-align: center;
+	font-weight: bold;
+	padding-top: 15px;
+	margin: 0;
+}
